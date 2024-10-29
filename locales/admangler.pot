@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdMangler\n"
+"POT-Creation-Date: 2013-05-17 15:00-0600\n"
+"PO-Revision-Date: 2013-05-17 15:00-0600\n"
+"Last-Translator: Webternals, LLC <admangler@webternals.com>\n"
+"Language-Team: Webternals, LLC <admangler@webternals.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/asanford/Development/web/public_html/wordpress/"
+"public_html/www/wp-content/plugins/admangler\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ./forms\n"
+"X-Poedit-SearchPath-1: ./panel\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: forms/settings.php:1
+msgid "Settings"
+msgstr ""
+
+#: forms/settings.php:2
+msgid "Coming Soon!"
+msgstr ""
+
+#: forms/banners.php:116
+msgid "Edit Banner"
+msgstr ""
+
+#: forms/banners.php:120 adManglerWidget.class.php:53 shortcode.php:33
+msgid "Width"
+msgstr ""
+
+#: forms/banners.php:121 adManglerWidget.class.php:54 shortcode.php:37
+msgid "Height"
+msgstr ""
+
+#: forms/banners.php:123 forms/banners.php:473
+msgid "Active"
+msgstr ""
+
+#: forms/banners.php:132 forms/banners.php:474
+msgid "Approved"
+msgstr ""
+
+#: forms/banners.php:136 forms/banners.php:200 forms/banners.php:205
+#: forms/banners.php:213 forms/banners.php:247 forms/banners.php:252
+#: forms/banners.php:260 forms/banners.php:285 forms/banners.php:496
+#: forms/banners.php:497 forms/banners.php:498
+msgid "Yes"
+msgstr ""
+
+#: forms/banners.php:137 forms/banners.php:199 forms/banners.php:204
+#: forms/banners.php:212 forms/banners.php:246 forms/banners.php:251
+#: forms/banners.php:259 forms/banners.php:286 forms/banners.php:496
+#: forms/banners.php:497 forms/banners.php:498
+msgid "No"
+msgstr ""
+
+#: forms/banners.php:145
+msgid "Generic HTML"
+msgstr ""
+
+#: forms/banners.php:146
+msgid "Image"
+msgstr ""
+
+#: forms/banners.php:150
+msgid "Banner Code"
+msgstr ""
+
+#: forms/banners.php:152
+msgid "Image Location"
+msgstr ""
+
+#: forms/banners.php:155
+msgid "Upload Image"
+msgstr ""
+
+#: forms/banners.php:156
+msgid "Enter a URL or upload an image"
+msgstr ""
+
+#: forms/banners.php:157 forms/banners.php:164
+msgid "example"
+msgstr ""
+
+#: forms/banners.php:161
+msgid "Image Link"
+msgstr ""
+
+#: forms/banners.php:178
+msgid "Page Association"
+msgstr ""
+
+#: forms/banners.php:183 forms/banners.php:230 forms/banners.php:508
+#: forms/banners.php:521
+msgid "All Pages"
+msgstr ""
+
+#: forms/banners.php:185 forms/banners.php:232
+msgid "Home Page"
+msgstr ""
+
+#: forms/banners.php:202 forms/banners.php:249 forms/banners.php:262
+msgid "Exclusive*"
+msgstr ""
+
+#: forms/banners.php:207 forms/banners.php:254
+msgid "Custom Slot"
+msgstr ""
+
+#: forms/banners.php:209 forms/banners.php:256
+msgid "Slot Number"
+msgstr ""
+
+#: forms/banners.php:217 forms/banners.php:264
+msgid "Remove Page Association"
+msgstr ""
+
+#: forms/banners.php:272
+msgid "Add Page Association"
+msgstr ""
+
+#: forms/banners.php:277
+msgid ""
+"Marking Exclusive will make only Ads marked exclusive show on this page/"
+"position."
+msgstr ""
+
+#: forms/banners.php:278
+msgid "Position 0 is reserved for all position start your numbering at 1."
+msgstr ""
+
+#: forms/banners.php:281
+msgid "Base Ad"
+msgstr ""
+
+#: forms/banners.php:287
+msgid "Is this a place holder Ad?"
+msgstr ""
+
+#: forms/banners.php:295 forms/banners.php:489
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: forms/banners.php:295 forms/banners.php:489
+msgid "Delete"
+msgstr ""
+
+#: forms/banners.php:326 forms/banners.php:328
+msgid "Choose Image"
+msgstr ""
+
+#: forms/banners.php:440
+msgid "View Banners"
+msgstr ""
+
+#: forms/banners.php:441
+msgid "Add New Banner"
+msgstr ""
+
+#: forms/banners.php:470
+msgid "Action"
+msgstr ""
+
+#: forms/banners.php:471
+msgid "Preview"
+msgstr ""
+
+#: forms/banners.php:475
+msgid "Base"
+msgstr ""
+
+#: forms/banners.php:476
+msgid "Page Associations"
+msgstr ""
+
+#: forms/banners.php:477
+msgid "Type"
+msgstr ""
+
+#: forms/banners.php:478
+msgid "Size"
+msgstr ""
+
+#: forms/banners.php:488
+msgid "Edit"
+msgstr ""
+
+#: forms/banners.php:492
+msgid "preview"
+msgstr ""
+
+#: forms/banners.php:507
+msgid "Home"
+msgstr ""
+
+#: forms/banners.php:512 forms/banners.php:514
+msgid "Ex."
+msgstr ""
+
+#: forms/banners.php:514
+msgid "Slot"
+msgstr ""
+
+#: forms/dashboard.php:34
+msgid "Dear AdMangler User"
+msgstr ""
+
+#: forms/dashboard.php:36
+msgid ""
+"You won't believe what I have gone and gotten myself into this time. I have "
+"written a plugin that is \n"
+"    beginning to gain momentum in the Wordpress community. Your help would "
+"be greatly appreciated. No, I don't expect \n"
+"    you to write code or even submit bug reports - so you can breathe that "
+"sigh of relief! But a donation \n"
+"    to Webternals, LLC in support of the AdMangler plugin would be wonderful "
+"and also help shift more resources \n"
+"    towards this project!"
+msgstr ""
+
+#: forms/dashboard.php:42
+msgid ""
+"If you can help, please make a donation using the button provided. Then you "
+"can sit back with your lemonade, \n"
+"    while I am working to improve AdMangler for the community as a whole! "
+"Thank you so much!"
+msgstr ""
+
+#: forms/dashboard.php:45
+msgid "The Webternals Team"
+msgstr ""
+
+#: forms/dashboard.php:52
+msgid "New this Version"
+msgstr ""
+
+#: forms/dashboard.php:54
+msgid "Added the shortcode icon to the content editor"
+msgstr ""
+
+#: forms/dashboard.php:55
+msgid ""
+"Replaced CURL calls with `stream_context_create` to enable a broader support "
+"of web servers"
+msgstr ""
+
+#: forms/dashboard.php:57
+msgid "Using Admangler"
+msgstr ""
+
+#: forms/dashboard.php:59
+msgid "Please Report Any Bugs Found to"
+msgstr ""
+
+#: forms/dashboard.php:61
+msgid "ShortCode Support"
+msgstr ""
+
+#: forms/dashboard.php:61
+msgid "(The built in wordpress shortcode feature)"
+msgstr ""
+
+#: forms/dashboard.php:62
+msgid ""
+"There is now an icon on the content builder to help you build your "
+"shortcode, just look for this icon"
+msgstr ""
+
+#: forms/dashboard.php:62
+msgid "on the content editor"
+msgstr ""
+
+#: forms/dashboard.php:64
+msgid ""
+"(Position is optional; Don't use 0 as it is the default and you want get the "
+"result you are looking for)"
+msgstr ""
+
+#: forms/dashboard.php:68
+msgid "Template File Usage"
+msgstr ""
+
+#: forms/dashboard.php:74 adManglerWidget.class.php:7
+msgid "AdMangler Widget"
+msgstr ""
+
+#: forms/dashboard.php:74
+msgid "(On the Wordpress Backend)"
+msgstr ""
+
+#: forms/dashboard.php:75
+msgid "Appearance -> Widgets -> AdMangeler Widget"
+msgstr ""
+
+#: adMangler.class.php:77 adMangler.class.php:79
+msgid "AdMangler Settings"
+msgstr ""
+
+#: adMangler.class.php:77
+msgid "AdMangler"
+msgstr ""
+
+#: adMangler.class.php:79
+msgid "Banners"
+msgstr ""
+
+#: adMangler.class.php:190
+msgid "AdMangler Admin"
+msgstr ""
+
+#: adManglerWidget.class.php:51
+msgid "Title"
+msgstr ""
+
+#: adManglerWidget.class.php:56 shortcode.php:41
+msgid "Position"
+msgstr ""
+
+#: shortcode.php:29
+msgid "AdMangler Shortcode Helper"
+msgstr ""
+
+#: shortcode.php:30
+msgid "Enter the size and position for this ad spot!"
+msgstr ""
+
+#: shortcode.php:46
+msgid "Insert"
+msgstr ""
